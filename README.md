@@ -23,11 +23,3 @@
 
 - **Role of reports:** 
   - Highlight how finance reports can support not only internal decision-making but also external stakeholders' confidence in the company's financial health.
-
-### Technical & Soft Skills:
-
-- **Technical Skills:**
-  - Consider adding examples or mini-tutorials showcasing each skill listed to demonstrate your proficiency effectively.
-
-- **Soft Skills:**
-  - Provide case studies or examples demonstrating how your soft skills have positively impacted the design and usability of your reports.
